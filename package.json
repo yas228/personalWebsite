@@ -1,0 +1,19 @@
+{
+  "name": "personalwebsite",
+  "version": "1.0.0",
+  "description": "Yawo Alphonse Siatitse: Personal Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yas228/personalWebsite.git"
+  },
+  "author": "YAS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yas228/personalWebsite/issues"
+  },
+  "homepage": "https://github.com/yas228/personalWebsite#readme"
+}
